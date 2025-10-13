@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/jleksh/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jleksh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jleksh/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/jleksh/LeetCode/tree/master/0035-search-insert-position) |
 | [2048-build-array-from-permutation](https://github.com/jleksh/LeetCode/tree/master/2048-build-array-from-permutation) |
 ## Hash Table
 |  |
@@ -57,5 +58,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/jleksh/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/jleksh/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
