@@ -15,6 +15,11 @@ var isPalindrome = function(x) {
         rev = (10 * rev) + rem;
         x = Math.floor(x / 10);
     }
-        return rev === xcopy;
+  //  if (rev == xcopy) {
+  //      return true;
+ //   } else {
+  //      return false;
+ //   }
 
+ return rev=== xcopy;
 };
