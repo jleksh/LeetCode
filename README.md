@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/jleksh/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/jleksh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jleksh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0268-missing-number](https://github.com/jleksh/LeetCode/tree/master/0268-missing-number) |
 | [2048-build-array-from-permutation](https://github.com/jleksh/LeetCode/tree/master/2048-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jleksh/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/jleksh/LeetCode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/jleksh/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/jleksh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/jleksh/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/jleksh/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/jleksh/LeetCode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/jleksh/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/jleksh/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/jleksh/LeetCode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -86,11 +90,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jleksh/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/jleksh/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jleksh/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/jleksh/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/jleksh/LeetCode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
