@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/jleksh/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/jleksh/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/jleksh/LeetCode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/jleksh/LeetCode/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/jleksh/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jleksh/LeetCode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/jleksh/LeetCode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/jleksh/LeetCode/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/jleksh/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/jleksh/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/jleksh/LeetCode/tree/master/0412-fizz-buzz) |
 | [2048-build-array-from-permutation](https://github.com/jleksh/LeetCode/tree/master/2048-build-array-from-permutation) |
 ## String Matching
 |  |
