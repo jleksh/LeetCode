@@ -4,11 +4,11 @@
  */
 
 var isPowerOfThree = function(n) {
-  if (n <= 0) return false;  // no negative or zero powers
+  if (n <= 0) return false;  
 
-  while (n % 3 === 0) {      // keep dividing by 3
+  while (n % 3 === 0) {      
     n = n / 3;
   }
 
-  return n === 1;            // true if we reduced exactly to 1
+  return n === 1;           
 };
