@@ -10,7 +10,6 @@ var lengthOfLastWord = function(s) {
         i--;
     }
 
-    // count characters of the last word
     while (i >= 0 && s[i] !== " ") {
         length++;
         i--;
