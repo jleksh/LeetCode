@@ -2,14 +2,20 @@
  * @param {number[]} nums
  * @return {number}
  */
-var missingNumber = function(nums) {
-      nums.sort((a, b) => a - b);
-      if (nums[0] !== 0) return 0;
-      for (let i = 1; i < nums.length; i++) {
-          if (nums[i] !== nums[i - 1] + 1) {
-              return nums[i - 1] + 1;
-          }
-      } 
-      return nums.length;
-  };
-    
+var missingNumber = function (nums) {
+    let n = nums.length;
+    let totalSum = (n *(n + 1)) / 2;
+    let partialSum = 0;
+
+
+    for (let i = 0; i < n; i++) {
+        partialSum = partialSum + nums[i];
+    }
+
+
+    return totalSum-partialSum;
+
+}
+    let nums = [ 1, 4, 2, 0, 5]; 
+    let result = missingNumber(nums);
+    console.log(result); 
