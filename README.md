@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jleksh/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/jleksh/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/jleksh/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [1168-duplicate-zeros](https://github.com/jleksh/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jleksh/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2048-build-array-from-permutation](https://github.com/jleksh/LeetCode/tree/master/2048-build-array-from-permutation) |
 ## Hash Table
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jleksh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/jleksh/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/jleksh/LeetCode/tree/master/0344-reverse-string) |
+| [1168-duplicate-zeros](https://github.com/jleksh/LeetCode/tree/master/1168-duplicate-zeros) |
 ## Trie
 |  |
 | ------- |
