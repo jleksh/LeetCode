@@ -8,6 +8,8 @@ var addDigits = function(num) {
     for (let i = 0; i < num.length; i++) {
         newNumber += Number(num[i]);
     }
-    if (newNumber.toString().length === 1) return newNumber;
+    if (newNumber.toString().length === 1) {
+        return newNumber;
+    }
     return addDigits(newNumber);
 };
