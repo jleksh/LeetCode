@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jleksh/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/jleksh/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/jleksh/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0792-binary-search](https://github.com/jleksh/LeetCode/tree/master/0792-binary-search) |
 | [1168-duplicate-zeros](https://github.com/jleksh/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jleksh/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2048-build-array-from-permutation](https://github.com/jleksh/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/jleksh/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/jleksh/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/jleksh/LeetCode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/jleksh/LeetCode/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jleksh/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Linked List
 |  |
