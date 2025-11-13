@@ -3,10 +3,10 @@
  * @return {boolean}
  */
 var isPowerOfTwo = function(n) {
-    if (n <= 0) return false;     
-    while (n > 1) {               
-        if (n % 2 !== 0) return false; // If remainder ≠ 0 → not power of 2
-        n = n / 2;                // Divide by 2
-    }
-    return true;
-};
+    if(n==1) return true;
+    else if((n%2 !=0) || n<1) return false;
+
+    return isPowerOfTwo(n/2);
+}
+
+isPowerOfTwo(6);
