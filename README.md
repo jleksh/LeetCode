@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/jleksh/LeetCode/tree/master/0948-sort-an-array) |
 | [1168-duplicate-zeros](https://github.com/jleksh/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jleksh/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jleksh/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2048-build-array-from-permutation](https://github.com/jleksh/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/jleksh/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Hash Table
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/jleksh/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/jleksh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/jleksh/LeetCode/tree/master/0268-missing-number) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jleksh/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/jleksh/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Math
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jleksh/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/jleksh/LeetCode/tree/master/0414-third-maximum-number) |
 | [0948-sort-an-array](https://github.com/jleksh/LeetCode/tree/master/0948-sort-an-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jleksh/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/jleksh/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
@@ -174,4 +177,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/jleksh/LeetCode/tree/master/0948-sort-an-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jleksh/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
