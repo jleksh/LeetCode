@@ -14,15 +14,17 @@
 var mergeTwoLists = function(list1, list2) {
     if (!list1) return list2;
     if (!list2) return list1;
-    let curr = null;
-    if (list1.val < list2.val) {
-        curr = list1;
-        list1 = list1.next;
-    } else {
-        curr = list2;
-        list2 = list2.next;
-    }
-    let start = curr;
+    //let curr=null
+    //if (list1.val < list2.val) {
+    //    curr = list1;
+     //   list1 = list1.next;
+    //} else {
+    //    curr = list2;
+    //    list2 = list2.next;
+   // }
+    //let start = curr;
+    let start = new ListNode();
+    let curr= start; 
     while (list1 && list2) {
         if (list1.val < list2.val) {
             curr.next = list1;
@@ -33,7 +35,11 @@ var mergeTwoLists = function(list1, list2) {
         }
         curr = curr.next;
     }
-    curr.next = list1 || list2;
-    return start;
+    if( !list1 ){
+        curr.next = list2;
+    }if (!list2){
+        curr.next = list1;
+    }    
+    return start.next;
 };
     
