@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jleksh/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2048-build-array-from-permutation](https://github.com/jleksh/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/jleksh/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2942-find-words-containing-character](https://github.com/jleksh/LeetCode/tree/master/2942-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/jleksh/LeetCode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/jleksh/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/jleksh/LeetCode/tree/master/0412-fizz-buzz) |
+| [2942-find-words-containing-character](https://github.com/jleksh/LeetCode/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
 |  |
 | ------- |
