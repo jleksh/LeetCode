@@ -5,12 +5,8 @@
 var maxFreqSum = function(s) {
         let map = {}
     for (i = 0; i < s.length; i++) {
-        if (!map[s[i]]) {
-            map[s[i]] = 1
-        } else {
-            ++map[s[i]]
-        }
-    }
+        map[s[i]] = !map[s[i]] ? 1 : ++map[s[i]]; 
+        } 
 
     let vowels = ['a', 'e', 'i', 'o', 'u']
     let maxVowels = 0;
@@ -29,6 +25,5 @@ var maxFreqSum = function(s) {
             }
         }
     }
-    return maxConsonant + maxVowels
-    
+    return maxConsonant + maxVowels; 
 };
