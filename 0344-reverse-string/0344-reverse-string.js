@@ -10,6 +10,5 @@ var reverseString = function(s) {
         s[i]=s[n-1-i];
         s[n-1-i]=temp;
     }
-    return s.join("");
     
 };
