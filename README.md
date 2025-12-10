@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jleksh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/jleksh/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jleksh/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/jleksh/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/jleksh/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jleksh/LeetCode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jleksh/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/jleksh/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jleksh/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/jleksh/LeetCode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/jleksh/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/jleksh/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/jleksh/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/jleksh/LeetCode/tree/master/0412-fizz-buzz) |
