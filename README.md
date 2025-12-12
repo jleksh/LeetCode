@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jleksh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jleksh/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/jleksh/LeetCode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/jleksh/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/jleksh/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/jleksh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jleksh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jleksh/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/jleksh/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/jleksh/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/jleksh/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jleksh/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/jleksh/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/jleksh/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/jleksh/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jleksh/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/jleksh/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/jleksh/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jleksh/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/jleksh/LeetCode/tree/master/0125-valid-palindrome) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/jleksh/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/jleksh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/jleksh/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jleksh/LeetCode/tree/master/0268-missing-number) |
