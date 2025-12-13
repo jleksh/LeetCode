@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jleksh/LeetCode/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/jleksh/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/jleksh/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Simulation
 |  |
@@ -230,10 +231,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/jleksh/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0838-design-linked-list](https://github.com/jleksh/LeetCode/tree/master/0838-design-linked-list) |
 ## Greedy
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/jleksh/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/jleksh/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/jleksh/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
