@@ -14,6 +14,6 @@ var evalRPN = function(tokens) {
                 stack.push(tokens[i])
             }
         }
-    return +stack.pop();
+    return Number(stack.pop());
 
 };
