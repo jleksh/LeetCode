@@ -11,16 +11,16 @@ var evalRPN = function(tokens) {
         if (token === '+' || token === '-' || token === '*' || token === '/') {
             let b = Number(stack.pop());
             let a = Number(stack.pop());
+            let ans;
 
-            let ans = eval(`${a} ${token} ${b}`);
-
-            if (token === '/') {
-                ans = Math.trunc(ans);
-            }
+            if (token === '+') ans = a + b;
+            else if (token === '-') ans = a - b;
+            else if (token === '*') ans = a * b;
+            else ans = Math.trunc(a / b); // division rule
 
             stack.push(ans);
         } else {
-            stack.push(+tokens[i]);
+            stack.push(+token);
         }
     }
 
