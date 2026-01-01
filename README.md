@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/jleksh/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/jleksh/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/jleksh/LeetCode/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/jleksh/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/jleksh/LeetCode/tree/master/0948-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/jleksh/LeetCode/tree/master/0994-rotting-oranges) |
 | [1168-duplicate-zeros](https://github.com/jleksh/LeetCode/tree/master/1168-duplicate-zeros) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/jleksh/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/jleksh/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/jleksh/LeetCode/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/jleksh/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jleksh/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Linked List
 |  |
