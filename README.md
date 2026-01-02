@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/jleksh/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/jleksh/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/jleksh/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/jleksh/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0739-daily-temperatures](https://github.com/jleksh/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/jleksh/LeetCode/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jleksh/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jleksh/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/jleksh/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/jleksh/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/jleksh/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/jleksh/LeetCode/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jleksh/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jleksh/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
