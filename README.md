@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/jleksh/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/jleksh/LeetCode/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jleksh/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0904-fruit-into-baskets](https://github.com/jleksh/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/jleksh/LeetCode/tree/master/0948-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/jleksh/LeetCode/tree/master/0994-rotting-oranges) |
 | [1168-duplicate-zeros](https://github.com/jleksh/LeetCode/tree/master/1168-duplicate-zeros) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jleksh/LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/jleksh/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/jleksh/LeetCode/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/jleksh/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jleksh/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/jleksh/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/jleksh/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/jleksh/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/jleksh/LeetCode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/jleksh/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0904-fruit-into-baskets](https://github.com/jleksh/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Monotonic Queue
 |  |
 | ------- |
