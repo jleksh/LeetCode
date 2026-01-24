@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/jleksh/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/jleksh/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jleksh/LeetCode/tree/master/0268-missing-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jleksh/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/jleksh/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/jleksh/LeetCode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/jleksh/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/jleksh/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/jleksh/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/jleksh/LeetCode/tree/master/0412-fizz-buzz) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jleksh/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/jleksh/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/jleksh/LeetCode/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/jleksh/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jleksh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/jleksh/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/jleksh/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/jleksh/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/jleksh/LeetCode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/jleksh/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/jleksh/LeetCode/tree/master/0904-fruit-into-baskets) |
