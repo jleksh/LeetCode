@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/jleksh/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jleksh/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jleksh/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jleksh/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2048-build-array-from-permutation](https://github.com/jleksh/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/jleksh/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2942-find-words-containing-character](https://github.com/jleksh/LeetCode/tree/master/2942-find-words-containing-character) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/jleksh/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/jleksh/LeetCode/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jleksh/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jleksh/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2215-finding-3-digit-even-numbers](https://github.com/jleksh/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/jleksh/LeetCode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/jleksh/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/jleksh/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jleksh/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Monotonic Queue
 |  |
 | ------- |
