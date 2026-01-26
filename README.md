@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/jleksh/LeetCode/tree/master/0948-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/jleksh/LeetCode/tree/master/0994-rotting-oranges) |
 | [1168-duplicate-zeros](https://github.com/jleksh/LeetCode/tree/master/1168-duplicate-zeros) |
+| [1200-minimum-absolute-difference](https://github.com/jleksh/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jleksh/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jleksh/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jleksh/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/jleksh/LeetCode/tree/master/0414-third-maximum-number) |
 | [0658-find-k-closest-elements](https://github.com/jleksh/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/jleksh/LeetCode/tree/master/0948-sort-an-array) |
+| [1200-minimum-absolute-difference](https://github.com/jleksh/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jleksh/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/jleksh/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2215-finding-3-digit-even-numbers](https://github.com/jleksh/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
