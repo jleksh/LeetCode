@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/jleksh/LeetCode/tree/master/0994-rotting-oranges) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/jleksh/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Interactive
 |  |
 | ------- |
@@ -349,10 +350,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/jleksh/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/jleksh/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/jleksh/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/jleksh/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -361,4 +364,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/jleksh/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/jleksh/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
