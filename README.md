@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/jleksh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/jleksh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jleksh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/jleksh/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/jleksh/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/jleksh/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -353,12 +354,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/jleksh/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jleksh/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/jleksh/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jleksh/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/jleksh/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jleksh/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/jleksh/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jleksh/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -369,5 +372,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/jleksh/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jleksh/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/jleksh/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jleksh/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
