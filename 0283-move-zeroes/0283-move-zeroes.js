@@ -10,7 +10,6 @@ var moveZeroes = function(nums) {
               x++;
           }
       }
-      //filling all remining elements with '0'
       for (let i = x; i < nums.length; i++) { 
           nums[i] = 0;
       }
