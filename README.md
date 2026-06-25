@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/jleksh/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/jleksh/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2942-find-words-containing-character](https://github.com/jleksh/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jleksh/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jleksh/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/jleksh/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/jleksh/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jleksh/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0948-sort-an-array](https://github.com/jleksh/LeetCode/tree/master/0948-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jleksh/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0948-sort-an-array](https://github.com/jleksh/LeetCode/tree/master/0948-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jleksh/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/jleksh/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/jleksh/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/jleksh/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jleksh/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -392,4 +397,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/jleksh/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jleksh/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jleksh/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
